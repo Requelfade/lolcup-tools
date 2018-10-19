@@ -14,7 +14,6 @@ Fore: BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE, RESET.
 Back: BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE, RESET.
 Style: DIM, NORMAL, BRIGHT, RESET_ALL
 """
-lolpath="E:\3a\programy\"
 
 headers = {
     'Accept' : 'application/json',
